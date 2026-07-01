@@ -20,7 +20,7 @@
   "code": "// Check if the complement is already in our map\n            if (numMap.containsKey(complement)) {\n                // Return a new array with the indices\n                return new int[] { numMap.get(complement), i };\n            }\n            \n            // Otherwise, add the current number and its index to the map\n            numMap.put(nums[i], i);\n        }\n        \n        // Included as a fallback to satisfy the compiler's return requirement\n        return new int[] {}; \n    }\n}",
   "runtime": "3\nms",
   "memory": "47.08\nMB",
-  "submittedAt": "2026-07-01T16:34:08.245Z",
+  "submittedAt": "2026-07-01T16:35:18.242Z",
   "acceptanceRate": "57.7%",
   "frontendUrl": "https://leetcode.com/problems/two-sum/"
 }
