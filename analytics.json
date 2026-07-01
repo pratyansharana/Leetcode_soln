@@ -1,0 +1,33 @@
+{
+  "generatedAt": "2026-07-01T16:31:02.299Z",
+  "totals": {
+    "solved": 1,
+    "byDifficulty": {
+      "Easy": 1
+    },
+    "byPattern": {
+      "Array & Hashing": 1
+    },
+    "byLanguage": {
+      "unknown": 1
+    }
+  },
+  "submissions": [
+    {
+      "id": "1",
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "Easy",
+      "pattern": "Array & Hashing",
+      "language": "unknown",
+      "tags": [
+        "Array",
+        "Hash Table"
+      ],
+      "runtime": "3\nms",
+      "memory": "47.08\nMB",
+      "submittedAt": "2026-07-01T16:31:01.243Z",
+      "url": "https://leetcode.com/problems/two-sum/"
+    }
+  ]
+}
