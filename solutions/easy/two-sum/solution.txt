@@ -1,0 +1,14 @@
+// Check if the complement is already in our map
+            if (numMap.containsKey(complement)) {
+                // Return a new array with the indices
+                return new int[] { numMap.get(complement), i };
+            }
+            
+            // Otherwise, add the current number and its index to the map
+            numMap.put(nums[i], i);
+        }
+        
+        // Included as a fallback to satisfy the compiler's return requirement
+        return new int[] {}; 
+    }
+}
