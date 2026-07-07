@@ -16,7 +16,7 @@
   "code": "if (x < 0 || (x % 10 == 0 && x != 0)) {\n            return false;\n        }\n\n        int revertedHalf = 0;\n\n        while (x > revertedHalf) {\n            revertedHalf = revertedHalf * 10 + x % 10;\n            x /= 10;\n        }\n\n        return x == revertedHalf || x == revertedHalf / 10;\n    }\n}\nclass Solution {\n    public boolean isPalindrome(int x) {",
   "runtime": "5\nms",
   "memory": "46.03\nMB",
-  "submittedAt": "2026-07-07T17:33:18.334Z",
+  "submittedAt": "2026-07-07T17:33:37.393Z",
   "acceptanceRate": "60.7%",
   "frontendUrl": "https://leetcode.com/problems/palindrome-number/"
 }
