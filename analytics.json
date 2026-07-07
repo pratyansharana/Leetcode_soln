@@ -1,19 +1,37 @@
 {
-  "generatedAt": "2026-07-07T17:33:24.859Z",
+  "generatedAt": "2026-07-07T17:48:22.659Z",
   "totals": {
-    "solved": 2,
+    "solved": 3,
     "byDifficulty": {
-      "Easy": 2
+      "Easy": 3
     },
     "byPattern": {
-      "Math & Bit Manipulation": 1,
-      "Array & Hashing": 1
+      "Array & Hashing": 2,
+      "Math & Bit Manipulation": 1
     },
     "byLanguage": {
+      "java": 1,
       "unknown": 2
     }
   },
   "submissions": [
+    {
+      "id": "13",
+      "title": "Roman to Integer",
+      "titleSlug": "roman-to-integer",
+      "difficulty": "Easy",
+      "pattern": "Array & Hashing",
+      "language": "java",
+      "tags": [
+        "Hash Table",
+        "Math",
+        "String"
+      ],
+      "runtime": "3\nms",
+      "memory": "46.14\nMB",
+      "submittedAt": "2026-07-07T17:48:21.577Z",
+      "url": "https://leetcode.com/problems/roman-to-integer/"
+    },
     {
       "id": "9",
       "title": "Palindrome Number",
