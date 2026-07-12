@@ -1,20 +1,38 @@
 {
-  "generatedAt": "2026-07-12T20:42:03.760Z",
+  "generatedAt": "2026-07-12T20:49:46.702Z",
   "totals": {
-    "solved": 3,
+    "solved": 4,
     "byDifficulty": {
+      "Medium": 1,
       "Easy": 3
     },
     "byPattern": {
-      "Array & Hashing": 2,
+      "Array & Hashing": 3,
       "Math & Bit Manipulation": 1
     },
     "byLanguage": {
-      "java": 2,
+      "java": 3,
       "unknown": 1
     }
   },
   "submissions": [
+    {
+      "id": "167",
+      "title": "Two Sum II - Input Array Is Sorted",
+      "titleSlug": "two-sum-ii-input-array-is-sorted",
+      "difficulty": "Medium",
+      "pattern": "Array & Hashing",
+      "language": "java",
+      "tags": [
+        "Array",
+        "Two Pointers",
+        "Binary Search"
+      ],
+      "runtime": "2\nms",
+      "memory": "48.37\nMB",
+      "submittedAt": "2026-07-12T20:49:45.455Z",
+      "url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/"
+    },
     {
       "id": "1",
       "title": "Two Sum",

@@ -4,26 +4,28 @@ Synced with LeetHub Pattern Sync.
 
 ## Analytics
 
-- Total solved: 3
-- Latest submission: [Two Sum](https://leetcode.com/problems/two-sum/)
+- Total solved: 4
+- Latest submission: [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 
 ### Difficulty
 
 | Difficulty | Count |
 | --- | ---: |
 | Easy | 3 |
+| Medium | 1 |
 
 ### Patterns
 
 | Pattern | Count |
 | --- | ---: |
-| Array & Hashing | 2 |
+| Array & Hashing | 3 |
 | Math & Bit Manipulation | 1 |
 
 ## Latest Submission
 
 | ID | Title | Difficulty | Pattern | Language | Submitted |
 | --- | --- | --- | --- | --- | --- |
+| 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | Array & Hashing | java | 2026-07-12T20:49:45.455Z |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array & Hashing | java | 2026-07-12T20:41:59.304Z |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | Array & Hashing | java | 2026-07-07T17:48:21.577Z |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Math & Bit Manipulation | unknown | 2026-07-07T17:33:18.334Z |
