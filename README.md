@@ -5,7 +5,7 @@ Synced with LeetHub Pattern Sync.
 ## Analytics
 
 - Total solved: 3
-- Latest submission: [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+- Latest submission: [Two Sum](https://leetcode.com/problems/two-sum/)
 
 ### Difficulty
 
@@ -24,9 +24,9 @@ Synced with LeetHub Pattern Sync.
 
 | ID | Title | Difficulty | Pattern | Language | Submitted |
 | --- | --- | --- | --- | --- | --- |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array & Hashing | java | 2026-07-12T20:41:59.304Z |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | Array & Hashing | java | 2026-07-07T17:48:21.577Z |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Math & Bit Manipulation | unknown | 2026-07-07T17:33:18.334Z |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array & Hashing | unknown | 2026-07-01T16:35:18.242Z |
 
 ## DSA Roadmap Journey
 

@@ -3,14 +3,12 @@
 - Difficulty: Easy
 - Pattern: Array & Hashing
 - Tags: `Array` `Hash Table`
-- Language: unknown
-- Runtime: 3
-ms
-- Memory: 47.08
-MB
-- Submitted: 2026-07-01T16:35:18.242Z
+- Language: java
+- Runtime: N/A
+- Memory: N/A
+- Submitted: 2026-07-12T20:41:59.304Z
 - LeetCode: https://leetcode.com/problems/two-sum/
-- Solution: [solution.txt](./solution.txt)
+- Solution: [solution.java](./solution.java)
 
 ## Problem
 

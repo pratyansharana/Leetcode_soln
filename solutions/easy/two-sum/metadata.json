@@ -15,12 +15,12 @@
     }
   ],
   "pattern": "Array & Hashing",
-  "language": "unknown",
-  "extension": "txt",
-  "code": "// Check if the complement is already in our map\n            if (numMap.containsKey(complement)) {\n                // Return a new array with the indices\n                return new int[] { numMap.get(complement), i };\n            }\n            \n            // Otherwise, add the current number and its index to the map\n            numMap.put(nums[i], i);\n        }\n        \n        // Included as a fallback to satisfy the compiler's return requirement\n        return new int[] {}; \n    }\n}",
-  "runtime": "3\nms",
-  "memory": "47.08\nMB",
-  "submittedAt": "2026-07-01T16:35:18.242Z",
-  "acceptanceRate": "57.7%",
+  "language": "java",
+  "extension": "java",
+  "code": "import java.util.HashMap;\nimport java.util.Map;\n\nclass Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer, Integer> map = new HashMap<>();\n\n        for (int i=0;i<nums.length;i++){\n            int comp = target - nums[i];\n\n            if(map.containsKey(comp)){\n                return new int[]{map.get(comp),i};\n            }\n            else{\n                map.put(nums[i],i);\n            }\n        } \n        return new int[]{};\n    }\n}",
+  "runtime": "",
+  "memory": "",
+  "submittedAt": "2026-07-12T20:41:59.304Z",
+  "acceptanceRate": "57.8%",
   "frontendUrl": "https://leetcode.com/problems/two-sum/"
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T17:48:22.659Z",
+  "generatedAt": "2026-07-12T20:42:03.760Z",
   "totals": {
     "solved": 3,
     "byDifficulty": {
@@ -10,11 +10,27 @@
       "Math & Bit Manipulation": 1
     },
     "byLanguage": {
-      "java": 1,
-      "unknown": 2
+      "java": 2,
+      "unknown": 1
     }
   },
   "submissions": [
+    {
+      "id": "1",
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "Easy",
+      "pattern": "Array & Hashing",
+      "language": "java",
+      "tags": [
+        "Array",
+        "Hash Table"
+      ],
+      "runtime": "",
+      "memory": "",
+      "submittedAt": "2026-07-12T20:41:59.304Z",
+      "url": "https://leetcode.com/problems/two-sum/"
+    },
     {
       "id": "13",
       "title": "Roman to Integer",
@@ -46,22 +62,6 @@
       "memory": "46.03\nMB",
       "submittedAt": "2026-07-07T17:33:18.334Z",
       "url": "https://leetcode.com/problems/palindrome-number/"
-    },
-    {
-      "id": "1",
-      "title": "Two Sum",
-      "titleSlug": "two-sum",
-      "difficulty": "Easy",
-      "pattern": "Array & Hashing",
-      "language": "unknown",
-      "tags": [
-        "Array",
-        "Hash Table"
-      ],
-      "runtime": "3\nms",
-      "memory": "47.08\nMB",
-      "submittedAt": "2026-07-01T16:35:18.242Z",
-      "url": "https://leetcode.com/problems/two-sum/"
     }
   ]
 }
